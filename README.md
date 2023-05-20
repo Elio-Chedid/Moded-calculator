@@ -16,7 +16,7 @@ This Android application is a moded calculator that performs basic arithmetic op
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/Elio-Chedid/lets-cook.git
+   git clone https://github.com/Elio-Chedid/moded-calculator.git
    ```
 
 2. Open the project in Android Studio.
